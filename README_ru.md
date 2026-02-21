@@ -4,6 +4,7 @@
 
 **[English](README_en.md) | Русский**
 
+[YouTube - ПОКАЗЫВАЮ КАК КРАСИВО СЛЕДИТЬ ЗА FPS И ТЕМПЕРАТУРАМИ В ИГРАХ - MSI Afterburner и RTSS](https://www.youtube.com/watch?v=GwYgzIkAgWc)
 </div>
 
 Набор оверлеев для RivaTuner Statistics Server (RTSS). Создавались на разрешении экрана 1920x1080.
@@ -39,7 +40,7 @@
 
 ## Установка
 
-1. Скачайте и разархивируйте архив `overlays.zip` | **[Скачать последнюю версию](https://github.com/overlays.zip)**
+1. Скачайте и разархивируйте архив `overlays.zip` | **[Скачать последнюю версию](https://github.com/We0M/Overlays/releases/download/v1.0/Overlays.7z)**
 2. Откройте **RTSS** и перейдите в:
    1. `Setup` → `Plugins`
    2. Убедитесь, что галочка рядом с `OverlayEditor.dll` включена.
