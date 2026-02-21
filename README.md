@@ -40,7 +40,7 @@ Supported platforms: Full versions are for AMD (CPU) only; the others were teste
 
 ## Installation
 
-1. Download and extract the `overlays.zip` archive | **[Download latest version](https://github.com/overlays.zip)**
+1. Download and extract the `overlays.zip` archive | **[Download latest version](https://github.com/We0M/Overlays/releases/download/v1.0/Overlays.7z)**
 2. Open **RTSS** and go to:
    1. `Setup` → `Plugins`
    2. Make sure the checkbox next to `OverlayEditor.dll` is enabled.
@@ -112,3 +112,4 @@ Supported platforms: Full versions are for AMD (CPU) only; the others were teste
 ![I2HARD AMD v2.0](preview/I2HARD%20AMD%20v2.0.png)
 
 </div>
+
