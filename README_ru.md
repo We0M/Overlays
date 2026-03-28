@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**[English](README_en.md) | Русский**
+**[English](README.md) | Русский**
 
 [YouTube - ПОКАЗЫВАЮ КАК КРАСИВО СЛЕДИТЬ ЗА FPS И ТЕМПЕРАТУРАМИ В ИГРАХ - MSI Afterburner и RTSS](https://www.youtube.com/watch?v=GwYgzIkAgWc)
 </div>
